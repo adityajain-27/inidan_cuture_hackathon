@@ -1,4 +1,4 @@
-# 🇮🇳 The Legacy Within the Frame
+# The Legacy Within the Frame
 ### Indian Architecture, History & Cultural Heritage
 
 An interactive frontend web project showcasing India’s ancient temples, religions, and cultural heritage through immersive design and smooth user interactions.
