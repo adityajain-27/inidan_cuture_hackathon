@@ -17,7 +17,7 @@ This project was built and presented during a hackathon and secured **1st place*
 ---
 
 ## 📁 GitHub Repository
-👉 https://github.com/adityajain-27/inidan_cuture_hackathon
+👉 https://github.com/adityajain-27/indian_cuture_hackathon
 
 ---
 
