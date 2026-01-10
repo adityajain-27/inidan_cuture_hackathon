@@ -12,7 +12,7 @@ This project was built and presented during a hackathon and secured **1st place*
 ---
 
 ## 🚀 Live Demo
-👉 https://adityajain-27.github.io/inidan_cuture_hackathon/
+👉 https://adityajain-27.github.io/indian_cuture_hackathon/
 
 ---
 
