@@ -7,7 +7,7 @@ An interactive frontend web project showcasing India’s ancient temples, religi
 
 ## 🏆 Hackathon Achievement
 🥇 **First Prize Winner**  
-This project was built and presented during a hackathon and secured **1st place**, based on creativity, design, and implementation.
+This project was built and presented during a hackathon Named Model Master held in NSUT, Delhi and secured **1st place**, based on creativity, design, and implementation.
 
 ---
 
